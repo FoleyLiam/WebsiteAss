@@ -1,0 +1,133 @@
+/*!
+ * Start Bootstrap - Small Business HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    background-color: #BAA378 
+    }
+
+  
+/* body.index.html {
+    background-image: url("http://www.tmt.co.uk/sites/default/files/styles/main_page_image/public/
+    business-sectors/archivalbg_1.jpg?itok=BVmsBJvY");
+    background-repeat: no-repeat;
+} The purpose of this line was to try and set an image as the background for the index.html page. 
+I initially set the image as a background for all the pages but didn't like the look but wanted to 
+give a slightly different look to the home page. It didn't work. LF */
+
+
+.navbar-fixed-top .nav {
+    padding: 15px 0;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 15px;
+}
+
+body {
+font-family: Futura; /* Apparently the most popular font of 2015 LF */
+
+}
+
+footer {
+    padding: 30px 0;
+}
+
+@media(min-width:768px) {
+    body {
+        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 15px 0;
+    }
+}
+.socialMedia li {
+    display: inline;
+    float: centre; /* Even though I've tried to centre this it's not exactly centered. LF */
+}
+.socMBackground div{
+    background-color: #808000
+}
+.thumbnail div{
+    background-color: #95A382
+}
+.panel-body div{
+    background-color: #95A382
+}
+.form div{
+    background-color: #BDB76B
+}
+
+.dropdown div{
+    float: centre;
+
+}
+
+}
+
+/* unvisited link */
+a:link {
+    color: gray;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+
+
+li {
+  display: list-item;
+  list-style-position: inside;
+}
+
+table, th, td {
+    border: 1px solid black;
+    
+}
+th, td {
+    padding: 5px;
+    text-align: center;
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+.payment div {
+    margin; auto;/* - Several attempts to centre the div none seem to work. LF */
+}
+
+.video {
+    float: centre;
+} /* - Several attempts to centre the video none seem to work. LF */
+
+
+
+/*  <style>
+    .header {
+        color: #36A0FF;
+        font-size: 27px;
+        padding: 10px;
+    }
+
+    .bigicon {
+        font-size: 35px;
+        color: #36A0FF;
+    }
+</style>  */
